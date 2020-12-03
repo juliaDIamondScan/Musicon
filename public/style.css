@@ -64,6 +64,8 @@ nav {
 
 #introduction {
     text-align: center;
+    margin-top: 15%;
+    margin-bottom: 50%;
 }
 
 #introduction h1 {
@@ -100,6 +102,11 @@ nav {
 .instrument {
     width: 90%;
     overflow: auto;
+    background-color: white;
+    opacity: 0.9;
+    padding: 2% 5%;
+    margin: 5% auto;
+    border-radius: 5px;
 
 }
 
